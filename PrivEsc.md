@@ -11,7 +11,9 @@
 
 ### SSH Port fowarding 
 
-Service listen on local on port 1234
+Service listen on local on port 1234.
+
 ```ssh user@remotemachine-L 80:localhost:1234```
+
 Now naviguate to localhost:80
 
