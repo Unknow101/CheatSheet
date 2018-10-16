@@ -1,5 +1,7 @@
 # PrivEsc
 
+## Linux
+
 ### Checklist
 
 * Checking sudo : ```sudo -l```
@@ -17,3 +19,8 @@ Service listen on local on port 1234.
 
 Now naviguate to localhost:80
 
+## Windows
+
+### Simple Tricks
+
+* ```dir /ah``` to display hidden files
