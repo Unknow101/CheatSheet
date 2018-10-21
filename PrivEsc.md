@@ -1,5 +1,9 @@
 # PrivEsc
 
+/!\ To get a nice TTY :
+```python -c 'import pty;pty.spawn("/bin/bash")'```
+CTRL + Z
+```stty raw -echo``` 
 ## Linux
 
 ### Checklist
