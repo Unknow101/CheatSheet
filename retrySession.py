@@ -25,3 +25,7 @@ def requests_retry_session(
     session.mount('https://', adapter)
     return session
     
+url = "http://monsite.com/index.php?id="
+
+for i in string.letters:
+    r=requests_retry_session().get(url+i)
