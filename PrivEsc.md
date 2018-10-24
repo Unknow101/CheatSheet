@@ -25,6 +25,10 @@ Now naviguate to localhost:80
 ### Binaries
 
 Binaries that can be exploited : https://gtfobins.github.io
+
+### MySQL
+
+Execute command : ```mysql -u [user] -p -e "COMMAND HERE"``` 
 ## Windows
 
 ### Simple Tricks
