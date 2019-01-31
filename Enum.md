@@ -6,3 +6,5 @@ Enumaration cheat sheet : http://www.0daysecurity.com/penetration-testing/enumer
 
 * nmap tcp with script : ```nmap -sV -sC ip```
 * nmap udp with script : ```nmap -sV -sU ip```
+
+test
